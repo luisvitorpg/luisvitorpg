@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Luis Vitor!</h1>
-<h3 align="center">A 10 years old brazillian programmer</h3>
 
-- I'm currently working in [my portfolio](https://github.com/luisvitorpg/luisvitorpg.github.io)
+- I worked in my [my portfolio](https://github.com/luisvitorpg/luisvitorpg.github.io)
 
 - I’m currently learning **C, Javascript**
 
